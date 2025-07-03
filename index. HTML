@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>TH elements define table headers</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>produto</th>
+    <th>Preço (R$)</th>
+    <th>quantidade</th>
+  </tr>
+  <tr>
+    <td>bolo</td>
+    <td>R$20,99</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>pizza</td>
+    <td>R$18,75 (fatia)</td>
+    <td>20</td>
+  </tr>
+      <td>doce</td>
+    <td>R$3,00</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>suco</td>
+    <td>R$4,99</td>
+    <td>26</td>
+  </tr>
+</table>
+
+<p>To understand the example better, we have added borders to the table.</p>
+
+</body>
+</html>
+
